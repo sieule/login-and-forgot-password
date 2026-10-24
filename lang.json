@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "back_home": "Về trang chủ",
+    "page_title": "Đăng nhập",
+    "login_title": "Đăng nhập",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "remember_me": "Ghi nhớ đăng nhập",
+    "need_help": "Cần hỗ trợ?",
+    "login_btn": "Đăng nhập",
+    "forgot_password": "Quên mật khẩu?",
+    "reset_link": "Đặt lại",
+
+    "reset_title": "Đặt lại mật khẩu",
+    "reset_desc": "Vui lòng điền 1 trong 2 thông tin dưới đây để đặt lại mật khẩu.",
+    "email": "Địa chỉ email",
+    "reset_btn": "Đặt lại",
+    "remembered_password": "Đã nhớ mật khẩu?",
+    "login_link": "Đăng nhập",
+
+    "err_username_empty": "Lỗi: Chưa nhập tên đăng nhập.",
+    "err_password_empty": "Lỗi: Chưa nhập mật khẩu.",
+    "err_username_or_email_empty": "Lỗi: Vui lòng nhập tên đăng nhập hoặc địa chỉ email.",
+    "err_email_invalid": "Lỗi: Địa chỉ email không hợp lệ."
+  },
+  "en": {
+    "back_home": "Back to home",
+    "page_title": "Login",
+    "login_title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "need_help": "Need help?",
+    "login_btn": "Login",
+    "forgot_password": "Forgot password?",
+    "reset_link": "Reset",
+
+    "reset_title": "Reset password",
+    "reset_desc": "Please fill in one of the two fields below to reset your password.",
+    "email": "Email address",
+    "reset_btn": "Reset",
+    "remembered_password": "Remembered your password?",
+    "login_link": "Login",
+
+    "err_username_empty": "Error: Username is required.",
+    "err_password_empty": "Error: Password is required.",
+    "err_username_or_email_empty": "Error: Please enter your username or email address.",
+    "err_email_invalid": "Error: Invalid email address."
+  },
+  "ja": {
+    "back_home": "ホームに戻る",
+    "page_title": "ログイン",
+    "login_title": "ログイン",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "remember_me": "ログイン状態を保持",
+    "need_help": "サポートが必要ですか？",
+    "login_btn": "ログイン",
+    "forgot_password": "パスワードをお忘れですか？",
+    "reset_link": "リセット",
+
+    "reset_title": "パスワードのリセット",
+    "reset_desc": "パスワードをリセットするには、以下のいずれかの情報を入力してください。",
+    "email": "メールアドレス",
+    "reset_btn": "リセット",
+    "remembered_password": "パスワードを思い出しましたか？",
+    "login_link": "ログイン",
+
+    "err_username_empty": "エラー：ユーザー名を入力してください。",
+    "err_password_empty": "エラー：パスワードを入力してください。",
+    "err_username_or_email_empty": "エラー：ユーザー名またはメールアドレスを入力してください。",
+    "err_email_invalid": "エラー：メールアドレスが無効です。"
+  }
+}
